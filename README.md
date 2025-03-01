@@ -10,8 +10,3 @@ cargo build --release
 ```shell
 cargo run
 ```
-
-## Testing
-```shell
-cargo test
-```
