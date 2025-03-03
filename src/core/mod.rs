@@ -1,6 +1,6 @@
-pub mod input;
-pub mod logic;
-pub mod output;
+mod input;
+mod logic;
+mod output;
 
 use self::{input::Input, logic::Logic, output::Output};
 
